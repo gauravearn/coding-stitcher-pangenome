@@ -7,7 +7,7 @@ codingsticher("/home/gaurav/Desktop/final_code_push/multi.gff",
             "/home/gaurav/Desktop/final_code_push/multi.fasta",
                            "/home/gaurav/Desktop/final_code_push/test.fasta")
 ```
-Gaurav Sablok \
+Gaurav \
 Academic Staff Member \
 Bioinformatics \
 Institute for Biochemistry and Biology \
